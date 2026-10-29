@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/adp0419"><img src="https://img.shields.io/badge/LinkedIn-adp0419-0A66C2?style=for-the-badge" /></a>
   <a href="https://adp0419.com"><img src="https://img.shields.io/badge/Portfolio-adp0419.com-2F81F7?style=for-the-badge" /></a>
   <a href="https://github.com/adp0419"><img src="https://img.shields.io/github/followers/adp0419?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=2EA043" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adp0419&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=adp0419-profile-live&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
 ## 👋 Hello there!
